@@ -1,0 +1,146 @@
+#grid_container{
+    background-color: blck;
+    border-color: black;
+    border-radius: 3px;
+    border-style: solid;
+    height: 40em;
+    width: 40em;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 0.3em;
+    margin: auto;
+    
+}
+.cell{
+    background-color: white;
+    border-color: black; 
+    border-style: solid;
+    height: 12.5em;
+    width: 12.5em;
+    display: inline-grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+}
+.x{
+    font-size: 4em;
+    color: orange;
+    
+}
+.o{
+    font-size: 4em;
+    color: blue;
+}
+
+
+#cell1{
+    background-color: white;
+    border-color: black; 
+    border-style: solid;
+    height: 12.5em;
+    width: 12.5em;
+    display: inline-grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+    
+}
+#cell2{
+    background-color: white;
+    border-color: black; 
+    border-style: solid;
+    height: 12.5em;
+    width: 12.5em;
+    display: inline-grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+    
+}
+#cell3{
+    background-color: white;
+    border-color: black; 
+    border-style: solid;
+    height: 12.5em;
+    width: 12.5em;
+    display: inline-grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+    
+}
+#cell4{
+    background-color: white;
+    border-color: black; 
+    border-style: solid;
+    height: 12.5em;
+    width: 12.5em;
+    display: inline-grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+    
+}
+#cell5{
+    background-color: white;
+    border-color: black; 
+    border-style: solid;
+    height: 12.5em;
+    width: 12.5em;
+    display: inline-grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+    
+}
+#cell6{
+    background-color: white;
+    border-color: black; 
+    border-style: solid;
+    height: 12.5em;
+    width: 12.5em;
+    display: inline-grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+    
+}
+#cell7{
+    background-color: white;
+    border-color: black; 
+    border-style: solid;
+    height: 12.5em;
+    width: 12.5em;
+    display: inline-grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+    
+}
+#cell8{
+    background-color: white;
+    border-color: black; 
+    border-style: solid;
+    height: 12.5em;
+    width: 12.5em;
+    display: inline-grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+    
+}
+#cell9{
+    background-color: white;
+    border-color: black; 
+    border-style: solid;
+    height: 12.5em;
+    width: 12.5em;
+    display: inline-grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+    
+}
+
+
+h1{
+    font-family: serif;
+    font-size: 2em;
+}
+body{
+    text-align: center;
+    background-color: rgb(207, 199, 199);
+}
+html{
+    background-color: rgb(207, 199, 199);;
+}

@@ -11,6 +11,10 @@
     margin: auto;
     
 }
+button{
+    align-self: center;
+    position: relative;
+}
 .cell{
     background-color: white;
     border-color: black; 
@@ -22,114 +26,12 @@
     grid-row-gap: 1em;
 }
 .x{
-    font-size: 4em;
     color: orange;
+   
     
 }
 .o{
-    font-size: 4em;
     color: blue;
-}
-
-
-#cell1{
-    background-color: white;
-    border-color: black; 
-    border-style: solid;
-    height: 12.5em;
-    width: 12.5em;
-    display: inline-grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
-    
-}
-#cell2{
-    background-color: white;
-    border-color: black; 
-    border-style: solid;
-    height: 12.5em;
-    width: 12.5em;
-    display: inline-grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
-    
-}
-#cell3{
-    background-color: white;
-    border-color: black; 
-    border-style: solid;
-    height: 12.5em;
-    width: 12.5em;
-    display: inline-grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
-    
-}
-#cell4{
-    background-color: white;
-    border-color: black; 
-    border-style: solid;
-    height: 12.5em;
-    width: 12.5em;
-    display: inline-grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
-    
-}
-#cell5{
-    background-color: white;
-    border-color: black; 
-    border-style: solid;
-    height: 12.5em;
-    width: 12.5em;
-    display: inline-grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
-    
-}
-#cell6{
-    background-color: white;
-    border-color: black; 
-    border-style: solid;
-    height: 12.5em;
-    width: 12.5em;
-    display: inline-grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
-    
-}
-#cell7{
-    background-color: white;
-    border-color: black; 
-    border-style: solid;
-    height: 12.5em;
-    width: 12.5em;
-    display: inline-grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
-    
-}
-#cell8{
-    background-color: white;
-    border-color: black; 
-    border-style: solid;
-    height: 12.5em;
-    width: 12.5em;
-    display: inline-grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
-    
-}
-#cell9{
-    background-color: white;
-    border-color: black; 
-    border-style: solid;
-    height: 12.5em;
-    width: 12.5em;
-    display: inline-grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
-    
 }
 
 
